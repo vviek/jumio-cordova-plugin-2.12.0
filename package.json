@@ -19,5 +19,8 @@
     "cordova-android"
   ],
   "author": "Jumio Corporation",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
 }
