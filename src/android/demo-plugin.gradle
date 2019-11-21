@@ -28,7 +28,7 @@ dependencies {
 
     //for core:
     implementation "com.android.support:support-v4:27.1.1"
-   // api "com.android.support:appcompat-v7:27.1.1"
+   api "com.android.support:appcompat-v7:27.1.1"
 
     //for nv:
     implementation "com.android.support:design:27.1.1"
